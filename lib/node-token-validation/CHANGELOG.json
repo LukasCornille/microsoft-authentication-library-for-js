@@ -2,6 +2,21 @@
   "name": "@azure/node-token-validation",
   "entries": [
     {
+      "date": "Mon, 25 Jul 2022 22:00:52 GMT",
+      "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
+      "version": "1.0.0-alpha.0",
+      "comments": {
+        "none": [
+          {
+            "author": "joarroyo@microsoft.com",
+            "package": "@azure/node-token-validation",
+            "commit": "b83c0d82824183f4cb761acf86dcfe214f35a15a",
+            "comment": "Add typedoc comments #4688"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 18 Jul 2022 23:26:21 GMT",
       "tag": "@azure/node-token-validation_v1.0.0-alpha.0",
       "version": "1.0.0-alpha.0",

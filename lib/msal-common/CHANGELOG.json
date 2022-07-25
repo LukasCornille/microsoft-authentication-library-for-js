@@ -2,6 +2,21 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Mon, 25 Jul 2022 22:00:52 GMT",
+      "tag": "@azure/msal-common_v7.2.0",
+      "version": "7.2.0",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "c8eb53d59a2df026832a914284c0bfb61486a016",
+            "comment": " Package-lock updates"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 18 Jul 2022 23:26:21 GMT",
       "tag": "@azure/msal-common_v7.2.0",
       "version": "7.2.0",

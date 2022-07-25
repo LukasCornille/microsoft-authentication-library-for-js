@@ -2,6 +2,27 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Mon, 25 Jul 2022 22:00:52 GMT",
+      "tag": "@azure/msal-browser_v2.28.0",
+      "version": "2.28.0",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c8eb53d59a2df026832a914284c0bfb61486a016",
+            "comment": " Package-lock updates"
+          },
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "674ff0c4a543fb2b5b52f3a7aed4fe32b387b7b2",
+            "comment": "Update package-lock"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 18 Jul 2022 23:26:21 GMT",
       "tag": "@azure/msal-browser_v2.28.0",
       "version": "2.28.0",
